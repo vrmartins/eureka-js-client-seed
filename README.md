@@ -12,7 +12,7 @@ Up Eureka Spring Cloud
 docker run -p 8761:8761 springcloud/eureka
 ```
 
-Start dev server by typing
+Start server by typing
 ```sh
 node index.js
 ```
