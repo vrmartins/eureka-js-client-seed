@@ -1,0 +1,1 @@
+# eureka-js-client-seed
